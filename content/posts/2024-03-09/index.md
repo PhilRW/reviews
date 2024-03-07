@@ -27,11 +27,19 @@ They take a bit of getting used to, but if you both *read* and *follow* the dire
 
 The clear ones are the clear winners because you can see where the water level is when filling. What good is a fill line on an opaque plastic? You'd need a strong flashlight to fill those trays correctly. And I don't want to have to equip myself just to refill the ice cube trays.
 
+### Functionality
+
 ### Quality
+
+They are rigid plastic and some kind of flexible plastic or rubbery material, about what would be expected based on the price.
 
 ### Reliability
 
+A couple of times I noticed water had leaked through one of the joints, but they have never failed to make ice. So I could call them 100% reliable.
+
 ### Durability
+
+For me they have held up pretty well so far. No problems.
 
 ## Conclusion
 

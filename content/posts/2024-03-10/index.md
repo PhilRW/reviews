@@ -26,11 +26,21 @@ It was the perfect temperature, primarily thanks to the settings on our refriger
 
 Now it's not as good as milk I've had from local dairies, but right now we don't get milk delivered, so we have to go to the store and get it. And it's 100% okay. I've never had a problem with this milk. Sometimes the cartons leak but I test that in the store through my rigorous process (I set them on their side in the cart).
 
+### Functionality
+
+This milk functions perfectly as a liquid, which is as per design specifications. It does not remain in the cold state for long due to entropy.
+
 ### Quality
+
+It is wet and cold.
 
 ### Reliability
 
+It is reliably wet and cold.
+
 ### Durability
+
+It would only remain cold for a short time, and it will remain wet for a bit longer. It is adequately durable for its purpose.
 
 ## Conclusion
 

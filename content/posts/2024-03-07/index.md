@@ -17,7 +17,7 @@ Enter the [ISOtunes LINK Aware Bluetooth Earmuffs]({{<amazon B094LSJ73H>}}), mod
 <!--more-->
 ## Description
 
-It's a battery-powered bluetooth-enabled noise reduction hearing protection earmuff headset with outside audio pass-through and independent volume controls.
+It's a battery-powered bluetooth-enabled noise reduction hearing protection earmuff stereo headset with outside audio pass-through and independent volume controls.
 
 ## Narrative
 
@@ -31,13 +31,13 @@ So back to the implementation.
 
 ### Functionality
 
-The bluetooth functionality works fine. You can listen to music or make calls or do whatever a bluetooth headset can do.
+The bluetooth functionality works fine. You can listen to music or make calls or do whatever a bluetooth headset can do, only better, because it blocks out much of the outside noise due to the nature of its design. 
 
-It also passes through outside audio. You can turn the volume on this up and down independent of the bluetooth audio levels. Consequently, it has five buttons: on/off, bluetooth up, bluetooth down, pass-through up, and pass-through down.
+It also passes through outside audio. You can turn the volume on this up and down independent of the bluetooth audio levels. Consequently, it has five buttons: on/off, bluetooth up, bluetooth down, pass-through up, and pass-through down. This must be the "Aware" part.
 
 ### Quality
 
-It's better than a regular bluetooth headset because it blocks out much of the outside noise due to the nature of its design. The audio is halfway decent, too, again thanks to its size (try getting any bass out of [ear buds]({{<ref "/tags/ear-buds">}}) and you'll know what I mean).
+The audio is halfway decent, again thanks to its size (try getting any bass out of [ear buds]({{<ref "/tags/ear-buds">}}) and you'll know what I mean).
 
 The shortcomings arise when I compare the impulse noise dampening feature with my old Peltor earmuffs. It just doesn't compare. The Peltors were so much better. Now both earmuffs mute quickly with loud noises, but the Peltors recovered by gently fading back up over a second or two. The ISOtunes are simply an on/off function: noise too loud? Turn it off. Then turn it back on. It's jarring and you can hear the muting/unmuting of the pass-through audio as a kind of "bump." It's so bad that if I'm in a loud or noisy environment that may trigger the hearing protection function, I simply do not use the pass-through audio. It works okay enough to increase your situational awareness in quieter environments that don't trigger that function. Essentially, it does what it says it does, but not in a very pleasant way. In technical audio terms, it's like an inverse noise gate, *not* a compressor like it should be. Sigh. There are so many better ways to do it.
 

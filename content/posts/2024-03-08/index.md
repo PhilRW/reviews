@@ -20,23 +20,27 @@ They're small, white, bluetooth ear buds. They provide audio into your ear via t
 
 ## Narrative
 
-Apple has some ambiguous product identification, so to be absolutely specific, I own model number [A2084](https://support.apple.com/en-us/109525). They were introduced in 2019 and I purchased them in 2022.
+Apple has some ambiguous product identification, so to be absolutely specific, I own model number [A2084](https://support.apple.com/en-us/109525). They were introduced in 2019 and I purchased them in 2022. I previously had a single-ear, mono bluetooth headset, and a pair of headphones, and some wired rechargeable ear buds with noise reduction, but the latter two required a headphone jack that my new phone does not have.
+
+### Functionality
 
 They're bluetooth. They're ear buds. They have microphones in them. They have active noise cancelling (which is pretty decent). They're white and small and prone to being lost. The case charges them from a built-in battery and also charges itself wirelessly over the now-ubiquitous [Qi charging standard](https://en.wikipedia.org/wiki/Qi_(standard)) (pronounced "chee", or rather, "chee charging standard"). The non-pro version doesn't charge the case wirelessly.
+
+### Quality
 
 They're not great at bass frequencies, but that's due to physics, not necessarily anything wrong with them. Smaller speakers just don't produce lower frequencies.
 
 The user experience is top notch and Apple does some kind of magic so you can use them with all your Apple devices. Not simultaneously, of course, but switching between devices is pretty seamless most of the time. This is *not* like the regular bluetooth pairing experience where you go into a menu and select "discoverable" and then enter some PIN and then click something on the other device and then wait and then it doesn't work so you have to toggle bluetooth off and on again and then forget to reset it on the other device... Apple's implementation just works. Sometimes it doesn't know that I want to use them on my laptop instead of my phone, or vice-versa, but that's probably coming in a future mind-reading software upgrade or something.
 
-Now very rarely they flake out and only one of the earbuds works, so when that happens I put them both back in the case and close it and open it and take them out again. Nine times out of ten it works every time.
-
 The noise cancelling is decent enough. It works to noticeably lower ambient noise, for example when I'm on the multi-use path next to the highway. Folks need to understand that active noise cancellation can only reduce relatively constant, predictable noise, like the steady hum of an electric motor or a white noise machine. It won't magically mute your annoying friend. Nothing can do that. Nothing. Not a thing.
-
-### Quality
 
 ### Reliability
 
+Now very rarely they flake out and only one of the earbuds works, so when that happens I put them both back in the case and close it and open it and take them out again. Nine times out of ten it works every time.
+
 ### Durability
+
+I wouldn't run them over with a car, or my kid's foot, or anything heavier than a T-shirt, but I generally don't drop things on them (or drop them on/into things), so so far, so good.
 
 ## Conclusion
 

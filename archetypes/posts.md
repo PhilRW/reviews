@@ -15,6 +15,8 @@ cover:
 
 ## Narrative
 
+### Functionality
+
 ### Quality
 
 ### Reliability
