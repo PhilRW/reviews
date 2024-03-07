@@ -14,6 +14,12 @@ cover:
 
 Today we take a closer look at my Apple AirPods from 2022. These are not the latest and greatest, but they *are* [still available]({{<amazon B0828BJGD2>}}).
 <!--more-->
+## Description
+
+They're small, white, bluetooth ear buds. They provide audio into your ear via their speakers and audio into your device via their microphones.
+
+## Narrative
+
 Apple has some ambiguous product identification, so to be absolutely specific, I own model number [A2084](https://support.apple.com/en-us/109525). They were introduced in 2019 and I purchased them in 2022.
 
 They're bluetooth. They're ear buds. They have microphones in them. They have active noise cancelling (which is pretty decent). They're white and small and prone to being lost. The case charges them from a built-in battery and also charges itself wirelessly over the now-ubiquitous [Qi charging standard](https://en.wikipedia.org/wiki/Qi_(standard)) (pronounced "chee", or rather, "chee charging standard"). The non-pro version doesn't charge the case wirelessly.
@@ -26,7 +32,13 @@ Now very rarely they flake out and only one of the earbuds works, so when that h
 
 The noise cancelling is decent enough. It works to noticeably lower ambient noise, for example when I'm on the multi-use path next to the highway. Folks need to understand that active noise cancellation can only reduce relatively constant, predictable noise, like the steady hum of an electric motor or a white noise machine. It won't magically mute your annoying friend. Nothing can do that. Nothing. Not a thing.
 
----
+### Quality
+
+### Reliability
+
+### Durability
+
+## Conclusion
 
 In summary, they work flawlessly with Apple products and are about as good as bluetooth earbuds can be. I keep them on me at (almost) all times. I would not buy these exact ones again only because I would want the [newer ones]({{<amazon B0CHWRXH8B>}}) instead; they're probably even better (more "Apple"). If I were not an Apple user, I probably wouldn't buy them because they're not a primary product. They're an accessory in the Apple ecosystem. A taste to keep ya hooked. Accessorize me, baby!
 

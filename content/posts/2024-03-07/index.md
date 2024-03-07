@@ -11,9 +11,16 @@ tags:
 - headphones
 cover:
   image: "cover.jpg"
+showToc: true
 ---
 Enter the [ISOtunes LINK Aware Bluetooth Earmuffs]({{<amazon B094LSJ73H>}}), model IT-34. Why are they shouting "LINK" at me? Is that some kind of secret acronym?
 <!--more-->
+## Description
+
+It's a battery-powered bluetooth-enabled noise reduction hearing protection earmuff headset with outside audio pass-through and independent volume controls.
+
+## Narrative
+
 Ah, the description and the technology hold so much promise, don't they? First of all, they're earmuffs, so they protect your hearing. Then they have bluetooth so you can listen to music or make calls while you wear them. And, as an extra bonus, they  pass through outside sounds to your ears using the built-in microphones. This means you can control the relative volume of the bluetooth audio and the real world, from all the way up (I haven't tried this) to all the way off (completely muted). Plus, they're oh-so-fashionable! Love that fluorescent green.[^1]
 
 [^1]: /s or not, depending on who you are
@@ -22,7 +29,15 @@ And then there's the implementation. But first a little backstory. I purchased t
 
 So back to the implementation.
 
-The bluetooth functionality works fine. You can listen to music or make calls or do whatever a bluetooth headset can do, only better, because it blocks out much of the outside noise due to the nature of its design. The audio is halfway decent, too, again thanks to its size (try getting any bass out of [ear buds]({{<ref "/tags/ear-buds">}}) and you'll know what I mean).
+### Functionality
+
+The bluetooth functionality works fine. You can listen to music or make calls or do whatever a bluetooth headset can do.
+
+It also passes through outside audio. You can turn the volume on this up and down independent of the bluetooth audio levels. Consequently, it has five buttons: on/off, bluetooth up, bluetooth down, pass-through up, and pass-through down.
+
+### Quality
+
+It's better than a regular bluetooth headset because it blocks out much of the outside noise due to the nature of its design. The audio is halfway decent, too, again thanks to its size (try getting any bass out of [ear buds]({{<ref "/tags/ear-buds">}}) and you'll know what I mean).
 
 The shortcomings arise when I compare the impulse noise dampening feature with my old Peltor earmuffs. It just doesn't compare. The Peltors were so much better. Now both earmuffs mute quickly with loud noises, but the Peltors recovered by gently fading back up over a second or two. The ISOtunes are simply an on/off function: noise too loud? Turn it off. Then turn it back on. It's jarring and you can hear the muting/unmuting of the pass-through audio as a kind of "bump." It's so bad that if I'm in a loud or noisy environment that may trigger the hearing protection function, I simply do not use the pass-through audio. It works okay enough to increase your situational awareness in quieter environments that don't trigger that function. Essentially, it does what it says it does, but not in a very pleasant way. In technical audio terms, it's like an inverse noise gate, *not* a compressor like it should be. Sigh. There are so many better ways to do it.
 
@@ -30,6 +45,14 @@ Now I'm quite sensitive to sound and noise, so I'm a bit picky in this area. Oth
 
 Oh, and one more nit: when they're getting low on battery they produce an incredibly annoying beep, made especially  more annoying usually because when I'm wearing these, it's to help me concentrate on something *that would make me angrily distracted by an annoying noise in the first place*. So make sure you keep them charged up.
 
----
+### Reliability
+
+So far it has reliably performed as designed.
+
+### Durability
+
+So far it remains in one piece and fully functional. Time will tell. The battery life is not as long as the [3M ones]({{<amazon B0723CYHPZ>}}).
+
+## Conclusion
 
 To sum up, they're okay but not perfect. Would I buy them again? Not these exact ones. But something close. Perhaps these are still the only product yet available that meets my requirements. But meeting requirements and making an excellent product are two different bars.
