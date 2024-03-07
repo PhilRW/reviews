@@ -40,7 +40,7 @@ It is reliably wet and cold.
 
 ### Durability
 
-It would only remain cold for a short time, and it will remain wet for a bit longer. It is adequately durable for its purpose.
+It would only remain cold for a short time, and it will remain wet for a bit longer than that. It is adequately durable for its purpose.
 
 ## Conclusion
 
