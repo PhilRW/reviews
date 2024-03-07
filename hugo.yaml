@@ -1,0 +1,38 @@
+baseURL: https://reviews.rosenberg-watt.com/
+languageCode: en-us
+title: R±W Product Reviews
+theme: PaperMod 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+menu:
+  main:
+    - name: Search
+      url: /search/
+    - name: Tags
+      url: /tags/
+params:
+  description: "Product reviews from the real world"
+  author: "Philip Rosenberg-Watt"
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: false
+  homeInfoParams:
+    Content: >
+      Welcome to my product review site. Here I review items that I own that I actually use.
+      Nobody pays me for my reviews. My goal is to be fair and honest. But opinions are like... well, you know the rest.
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/philrw/reviews"
+    - name: rss
+      title: RSS Feed
+      url: "/index.xml"
+
