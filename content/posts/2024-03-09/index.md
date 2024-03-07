@@ -1,7 +1,7 @@
 ---
 title: "ICEBREAKER POP ice cube tray"
 date: "2024-03-09"
-draft: false
+draft: true
 categories:
 - product
 tags:
@@ -9,7 +9,7 @@ tags:
 - convenience
 - innovative
 cover:
-  image: ""
+  image: "cover.jpg"
 ---
 [ICEBREAKER POP]({{<amazon B09VRH86S2>}}) is another product that shouts its name at you, like the caps lock key is stuck on.
 <!--more-->

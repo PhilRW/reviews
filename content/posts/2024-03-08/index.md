@@ -9,7 +9,7 @@ tags:
 - bluetooth
 - ear buds
 cover:
-  image: "IMG_4765.jpeg"
+  image: "cover.jpg"
 ---
 
 Today we take a closer look at my Apple AirPods from 2022. These are not the latest and greatest, but they *are* [still available]({{<amazon B0828BJGD2>}}).

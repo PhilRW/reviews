@@ -9,7 +9,7 @@ tags:
 - food
 - comestible
 cover:
-  image: "IMG_4766.jpeg"
+  image: "cover.jpg"
 ---
 Today I will be reviewing this glass of milk.
 <!--more-->

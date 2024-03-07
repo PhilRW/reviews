@@ -7,7 +7,7 @@ categories:
 tags:
 - 
 cover:
-  image: ""
+  image: "cover.jpg"
 ---
 
 <!--more-->

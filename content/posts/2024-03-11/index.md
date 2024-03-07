@@ -9,7 +9,7 @@ tags:
 - travel
 - convenience
 cover:
-  image: ""
+  image: "cover.jpg"
 ---
 
 <!--more-->

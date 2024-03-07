@@ -10,7 +10,7 @@ tags:
 - bluetooth
 - headphones
 cover:
-  image: "IMG_4762.jpeg"
+  image: "cover.jpg"
 ---
 Enter the [ISOtunes LINK Aware Bluetooth Earmuffs]({{<amazon B094LSJ73H>}}), model IT-34. Why are they shouting "LINK" at me? Is that some kind of secret acronym?
 <!--more-->
