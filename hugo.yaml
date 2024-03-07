@@ -24,15 +24,25 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: false
-  homeInfoParams:
-    Content: >
-      Welcome to my review site.
-      Nobody pays me for these reviews. My goal is to be fair and honest. But opinions are like... well, you know the rest.
-  socialIcons:
-    - name: github
-      title: View Source on Github
-      url: "https://github.com/philrw/reviews"
-    - name: rss
-      title: RSS Feed
-      url: "/index.xml"
+  # homeInfoParams:
+  #   Content: >
+  # socialIcons:
+  #   - name: github
+  #     title: View Source on Github
+  #     url: "https://github.com/philrw/reviews"
+  #   - name: rss
+  #     title: RSS Feed
+  #     url: "/index.xml"
 
+menu:
+  main:
+    - name: About
+      url: /about
+    - name: Categories
+      url: /categories
+    - name: Posts
+      url: /post/
+    - name: Search
+      url: /search/
+    - name: Tags
+      url: /tags/
