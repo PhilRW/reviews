@@ -1,7 +1,7 @@
 ---
 title: "This glass of milk"
 date: "2024-03-10"
-draft: false
+draft: true
 categories:
 - product
 - humor

@@ -1,7 +1,7 @@
 ---
 title: "Apple AirPods Pro"
 date: "2024-03-08"
-draft: false
+draft: true
 categories:
 - product
 tags:
