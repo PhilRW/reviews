@@ -1,6 +1,6 @@
 baseURL: https://reviews.rosenberg-watt.com/
 languageCode: en-us
-title: R±W Product Reviews
+title: R±W Reviews
 theme: PaperMod 
 outputs:
   home:
@@ -14,7 +14,7 @@ menu:
     - name: Tags
       url: /tags/
 params:
-  description: "Product reviews from the real world"
+  description: "Reviews from the real world"
   author: "Philip Rosenberg-Watt"
   defaultTheme: auto
   ShowShareButtons: true
@@ -26,8 +26,8 @@ params:
   ShowToc: false
   homeInfoParams:
     Content: >
-      Welcome to my product review site. Here I review items that I own that I actually use.
-      Nobody pays me for my reviews. My goal is to be fair and honest. But opinions are like... well, you know the rest.
+      Welcome to my review site.
+      Nobody pays me for these reviews. My goal is to be fair and honest. But opinions are like... well, you know the rest.
   socialIcons:
     - name: github
       title: View Source on Github
