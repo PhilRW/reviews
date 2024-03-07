@@ -1,7 +1,7 @@
 baseURL: https://reviews.rosenberg-watt.com/
 languageCode: en-us
 title: R±W Reviews
-theme: PaperMod 
+theme: PaperMod
 outputs:
   home:
     - HTML
@@ -14,6 +14,7 @@ menu:
     - name: Tags
       url: /tags/
 params:
+  amazonTag: ffwf0f-20
   description: "Reviews from the real world"
   author: "Philip Rosenberg-Watt"
   defaultTheme: auto
