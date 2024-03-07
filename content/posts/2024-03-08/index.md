@@ -8,7 +8,6 @@ tags:
 - electronics
 - bluetooth
 - ear buds
-- Apple
 cover:
   image: "IMG_4765.jpeg"
 ---

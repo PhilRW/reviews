@@ -9,7 +9,6 @@ tags:
 - PPE
 - bluetooth
 - headphones
-- ISOtunes
 cover:
   image: "IMG_4762.jpeg"
 ---
