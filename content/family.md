@@ -1,5 +1,5 @@
 ---
-title: "Family shopping list"
+title: "Family Shopping List"
 ---
 Here's the family shopping list:
 
