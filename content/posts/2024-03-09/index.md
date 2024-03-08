@@ -11,7 +11,7 @@ tags:
 cover:
   image: "cover.jpg"
 ---
-[ICEBREAKER POP]({{<amazon B09VRH86S2>}}) is another product that shouts its name at you, like the caps lock key is stuck on.
+[ICEBREAKER POP]({{<amazon "B09VRH86S2">}}) is another product that shouts its name at you, like the caps lock key is stuck on.
 <!--more-->
 ## Description
 
@@ -45,4 +45,4 @@ For me they have held up pretty well so far. No problems.
 
 ## Conclusion
 
-So I didn't think I'd be using these as much as I would, but I do. They're an everyday item for me. They alleviate the worry of spillage, which was my primary gripe with traditional ice cube trays. I would definitely buy them again, but only in a [clear]({{<amazon B09VRH86S2>}})/see-though color.
+So I didn't think I'd be using these as much as I would, but I do. They're an everyday item for me. They alleviate the worry of spillage, which was my primary gripe with traditional ice cube trays. I would definitely buy them again, but only in a [clear]({{<amazon "B09VRH86S2">}})/see-though color.

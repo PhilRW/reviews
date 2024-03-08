@@ -11,7 +11,7 @@ tags:
 cover:
   image: "cover.jpg"
 ---
-Speaking of [making ice on the go]({{<ref "posts/2024-03-09">}}), let's take a look at this [ICECO GO20]({{<amazon B07THMM1CK>}}) portable 12V refrigerator. I'm beginning to think the folks who name products are hard of hearing.
+Speaking of [making ice on the go]({{<ref "posts/2024-03-09">}}), let's take a look at this [ICECO GO20]({{<amazon "B07THMM1CK">}}) portable 12V refrigerator. I'm beginning to think the folks who name products are hard of hearing.
 <!--more-->
 
 ## Description

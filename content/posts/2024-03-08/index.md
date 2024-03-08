@@ -13,7 +13,7 @@ cover:
   image: "cover.jpg"
 ---
 
-Today we take a closer look at my Apple AirPods from 2022. These are not the latest and greatest, but they *are* [still available]({{<amazon B0828BJGD2>}}).
+Today we take a closer look at my Apple AirPods from 2022. These are not the latest and greatest, but they *are* [still available]({{<amazon "B0828BJGD2">}}).
 <!--more-->
 ## Description
 
@@ -45,5 +45,5 @@ I wouldn't run them over with a car, or my kid's foot, or anything heavier than 
 
 ## Conclusion
 
-In summary, they work flawlessly with Apple products and are about as good as bluetooth earbuds can be. I keep them on me at (almost) all times. I would not buy these exact ones again only because I would want the [newer ones]({{<amazon B0CHWRXH8B>}}) instead; they're probably even better (more "Apple"). If I were not an Apple user, I probably wouldn't buy them because they're not a primary product. They're an accessory in the Apple ecosystem. A taste to keep ya hooked. Accessorize me, baby!
+In summary, they work flawlessly with Apple products and are about as good as bluetooth earbuds can be. I keep them on me at (almost) all times. I would not buy these exact ones again only because I would want the [newer ones]({{<amazon "B0CHWRXH8B">}}) instead; they're probably even better (more "Apple"). If I were not an Apple user, I probably wouldn't buy them because they're not a primary product. They're an accessory in the Apple ecosystem. A taste to keep ya hooked. Accessorize me, baby!
 
