@@ -37,7 +37,7 @@ It also passes through outside audio. You can turn the volume on this up and dow
 
 ### Quality
 
-The audio is halfway decent, again thanks to its size (try getting any bass out of [ear buds]({{<ref "/tags/ear-buds">}}) and you'll know what I mean).
+The audio is halfway decent, again thanks to its size (try getting any bass out of [ear buds](/tags/ear-buds) and you'll know what I mean).
 
 The shortcomings arise when I compare the impulse noise dampening feature with my old Peltor earmuffs. It just doesn't compare. The Peltors were so much better. Now both earmuffs mute quickly with loud noises, but the Peltors recovered by gently fading back up over a second or two. The ISOtunes are simply an on/off function: noise too loud? Turn it off. Then turn it back on. It's jarring and you can hear the muting/unmuting of the pass-through audio as a kind of "bump." It's so bad that if I'm in a loud or noisy environment that may trigger the hearing protection function, I simply do not use the pass-through audio. It works okay enough to increase your situational awareness in quieter environments that don't trigger that function. Essentially, it does what it says it does, but not in a very pleasant way. In technical audio terms, it's like an inverse noise gate, *not* a compressor like it should be. Sigh. There are so many better ways to do it.
 
