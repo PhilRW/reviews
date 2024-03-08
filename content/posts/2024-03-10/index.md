@@ -18,6 +18,7 @@ Today I will be reviewing this glass of milk.
 A cold glass of milk.
 
 ## Narrative
+
 Not all milk, mind you, and not a particular grade of milk, nor even any milk from a particular carton. I'm referring to a single, 8 oz. glass of milk.
 
 This particular glass of milk came from a carton of organic, ultrapasteurized 2% milk from Costco.
@@ -40,8 +41,8 @@ It is reliably wet and cold.
 
 ### Durability
 
-It would only remain cold for a short time, and it will remain wet for a bit longer than that. It is adequately durable for its purpose.
+It only remains cold for a short time, and it remains wet for a bit longer than that. It is adequately durable for its purpose.
 
 ## Conclusion
 
-In summation, it was refreshing and just what I needed in the moment. I think I'll have another one. Maybe this time with some cookies...
+In summation, it was refreshing and just what I needed in the moment. I would definitely get one again. In fact, I think I'll have another one. Maybe this time with some cookies...

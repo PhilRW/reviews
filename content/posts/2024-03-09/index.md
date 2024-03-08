@@ -15,6 +15,8 @@ cover:
 <!--more-->
 ## Description
 
+<!-- TODO -->
+
 ## Narrative
 
 We bought these trays for our [RV](http://rangeline.info) but it turns out we use them in our house, too. The design is such that you fill them with water, seal them up, and then put them in the freezer whichever way you want. No worries about spilling them. Perfect for a moving vehicle, right?

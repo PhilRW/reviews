@@ -16,15 +16,15 @@ Today we take a closer look at my Apple AirPods from 2022. These are not the lat
 <!--more-->
 ## Description
 
-They're small, white, bluetooth ear buds. They provide audio into your ear via their speakers and audio into your device via their microphones.
+They're bluetooth. They're ear buds. They have microphones in them. They have active noise cancelling (which is pretty decent). They're white and small and prone to being lost. The case charges them from a built-in battery and also charges itself wirelessly over the now-ubiquitous [Qi charging standard](https://en.wikipedia.org/wiki/Qi_(standard)) (pronounced "chee", or rather, "chee charging standard"). The non-pro version doesn't charge the case wirelessly.
 
 ## Narrative
 
-Apple has some ambiguous product identification, so to be absolutely specific, I own model number [A2084](https://support.apple.com/en-us/109525). They were introduced in 2019 and I purchased them in 2022. I previously had a single-ear, mono bluetooth headset, and a pair of headphones, and some wired rechargeable ear buds with noise reduction, but the latter two required a headphone jack that my new phone does not have.
+Apple has some ambiguous product identification, so to be absolutely specific, I own model number [A2084](https://support.apple.com/en-us/109525). They were introduced in 2019 and I purchased them in 2022. I previously had a single-ear, mono bluetooth headset, and a pair of headphones, and some wired rechargeable ear buds with noise reduction, but the latter two required a headphone jack that my new phone did not have.
 
 ### Functionality
 
-They're bluetooth. They're ear buds. They have microphones in them. They have active noise cancelling (which is pretty decent). They're white and small and prone to being lost. The case charges them from a built-in battery and also charges itself wirelessly over the now-ubiquitous [Qi charging standard](https://en.wikipedia.org/wiki/Qi_(standard)) (pronounced "chee", or rather, "chee charging standard"). The non-pro version doesn't charge the case wirelessly.
+They provide audio into your ear via their speakers and audio into your device via their microphones. You can squeeze the stems to toggle noise reduction vs "transparency" mode, which passes through audio from the mics with a relatively natural amount of amplification.
 
 ### Quality
 
@@ -36,7 +36,7 @@ The noise cancelling is decent enough. It works to noticeably lower ambient nois
 
 ### Reliability
 
-Now very rarely they flake out and only one of the earbuds works, so when that happens I put them both back in the case and close it and open it and take them out again. Nine times out of ten it works every time.
+Very rarely they flake out and only one of the earbuds works, so when that happens I put them both back in the case and close it and open it and take them out again. Nine times out of ten it works every time.
 
 ### Durability
 
