@@ -1,7 +1,7 @@
 ---
 title: "ICEBREAKER POP ice cube tray"
 date: "2024-03-09T00:00:00-07:00"
-draft: true
+draft: false
 categories:
 - product
 tags:
@@ -15,7 +15,7 @@ cover:
 <!--more-->
 ## Description
 
-<!-- TODO -->
+A fully-enclosed ice cube tray that you can store in any orientation in the freezer.
 
 ## Narrative
 
@@ -37,7 +37,7 @@ They are rigid plastic and some kind of flexible plastic or rubbery material, ab
 
 ### Reliability
 
-A couple of times I noticed water had leaked through one of the joints, but they have never failed to make ice. So I could call them 100% reliable.
+A couple of times I noticed a small amount of water had leaked through one of the joints, but they have never failed to make ice. So I could call them 100% reliable.
 
 ### Durability
 
@@ -45,4 +45,4 @@ For me they have held up pretty well so far. No problems.
 
 ## Conclusion
 
-So I didn't think I'd be using these as much as I would, but I do. They're an everyday item for me. They alleviate the worry of spillage, which was my primary gripe with traditional ice cube trays. I would definitely buy them again, but only in a clear/see-though color.
+So I didn't think I'd be using these as much as I would, but I do. They're an everyday item for me. They alleviate the worry of spillage, which was my primary gripe with traditional ice cube trays. I would definitely buy them again, but only in a [clear]({{<amazon B09VRH86S2>}})/see-though color.
