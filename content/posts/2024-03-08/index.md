@@ -8,6 +8,7 @@ tags:
 - electronics
 - bluetooth
 - ear buds
+- EDC
 cover:
   image: "cover.jpg"
 ---

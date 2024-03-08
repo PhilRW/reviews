@@ -9,6 +9,7 @@ tags:
 - PPE
 - bluetooth
 - headphones
+- EDC
 cover:
   image: "cover.jpg"
 ---
