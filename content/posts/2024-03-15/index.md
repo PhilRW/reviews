@@ -28,4 +28,4 @@ It's a folding S30V steel pocket knife with a black handle and a pocket clip tha
 
 ## Conclusion
 
-This is always on me and it always works. I wold definitely purchase again. Unfortunately, I don't think this exact model is made anymore, but there may be something similar of the same lineage.
+This is always on me and it always works. I wold definitely purchase again. Unfortunately, I don't think they make this exact model anymore, but there may be something newer of the same lineage.
