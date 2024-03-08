@@ -1,54 +1,43 @@
 ---
-title: "ICECO GO20 12V portable fridge"
+title: "GIR Mini Spatula"
 date: "2024-03-11T00:00:00-07:00"
 draft: false
 categories:
 - product
 tags:
-- electronics
-- travel
-- convenience
-- refrigeration
+- kitchen
+- utensil
+- silicone
+- cooking
 cover:
   image: "cover.jpg"
 ---
-Speaking of [making ice on the go]({{<ref "posts/2024-03-09">}}), let's take a look at this [ICECO GO20]({{<amazon "B07THMM1CK">}}) portable 12V refrigerator. I'm beginning to think the folks who name products are hard of hearing.
+[This GIR spatula]({{<amazon "B0177MBROQ">}}). At least GIR is an acronym this time and not just an angry typo.
 <!--more-->
-
 ## Description
 
-It's a portable 12V dual-zone 20L refrigerator that looks like a sleek cooler. But it is not a cooler. It is a refrigerator. No ice necessary, only power.
+It's a black silicone spatula, a bit on the small side.
 
 ## Narrative
 
-This is another road trip item that has come in handy in the house, like when our fridge decided not to freeze items any more. We used this as a bit of a freezer lifeboat, if you will. It safely transported and stored breast milk.
+"Nonstick" is an understatement. We bought it on [Wirecutter](https://www.nytimes.com/wirecutter/)'s recommendation. It's a bit *too* nonstick for me.
 
 ### Functionality
 
-It runs on 12V power which, if you don't know, is the same voltage most cars use. So you can plug it into your car. It also comes with a power adapter for your house so you can use it inside.
-
-It has a bluetooth connection that I don't use. Theoretically you can control it from your smart phone (please not while driving, okay?). I don't know why you'd want or need this, but it's there.
-
-The coolest (gah) part is that it is dual-zone. That means that one side can be a freezer and the other a fridge. If you remove the divider it automatically turns into a single-zone fridge (or freezer). 
-
-I like how you can control each zone with digital controls on the front panel, and you can lock the front panel so errant fingers (or feet) don't change the temperature. It can be in °F or °C. Also I think the display turns off after a little while so it doesn't brighten a dark room.
+It flips eggs. It's not stiff enough to separate the whites of eggs that have run together. It's too slippery to hold onto eggs and they sometimes slide off too soon. This can be bad news when going from the pan to the plate, so I have adapted by moving my plate as close as possible to the pan.
 
 ### Quality
 
-The finish on ours is a kinda sparkly dark gray, which is nice. The display is just right: not fancy but totally adequate for what it does: display temperature. The lock/unlock control is not completely intuitive but I still somehow remember how to do it even without the manual. Still, keep the manual handy or, better yet, print some simple instructions on a label (label maker review for a future date).
+The quality is fine. The tapered edge is a nice touch. It's smooth pretty much everywhere.
 
 ### Reliability
 
-It keeps items cold and it cools down pretty quickly.
-
-It still works, and we purchased it in July, 2022. It did continuous duty as a freezer for several months and always kept things well frozen. Don't block the vent holes near the compressor and you should be fine.
+It's reliably slippery, all of the time.
 
 ### Durability
 
-A three-year-old walked over it several times to get into and out of the car and it still works. I may or may not have quickly used it as a support for some of my weight as well. The exterior finish has some signs of wear (scrapes, scratches, etc.), but there are no functional defects.
-
-I haven't dropped it, crushed it, pried it, or abused it in any way. The hinge on the lid might be problematic if you like to apply excessive force. I'm not going to try that.
+The silicone hasn't melted, cracked, or deformed, so I'd say it's pretty durable. I don't leave it in the pan or touching hot surfaces for very long. Maybe I could....
 
 ## Conclusion
 
-I would definitely buy this again, it's great. The size is just right for the back seat of my car, but if I had more room, I'd get a bigger one (fridge, not car). However, this size is basically just right. I can even fit half gallon cartons of [milk]({{<ref "posts/2024-03-10">}}) in it.
+I probably wouldn't buy this again if it's for eggs. It's super easy to clean but has practically no coefficient of friction, so it's not perfect. [This nylon one]({{<amazon "B01E8NH1OW">}}) is much better, at least for making fried eggs. And yet, I keep using it. In fact, I use it almost every day. So maybe it's okay after all. Maybe it's one of those frustrating things that you get used to and would miss if absent, which has some ineffable qualities that you can't quite put your finger on. Then again, maybe I just don't care all that much. After all, it *is* a spatula. 
