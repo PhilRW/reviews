@@ -1,6 +1,6 @@
 ---
 title: "ICEBREAKER POP ice cube tray"
-date: "2024-03-09"
+date: "2024-03-09T00:00:00-07:00"
 draft: true
 categories:
 - product

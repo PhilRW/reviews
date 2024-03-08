@@ -1,6 +1,6 @@
 ---
 title: "Apple AirPods Pro"
-date: "2024-03-08"
+date: "2024-03-08T00:00:00-07:00"
 draft: false
 categories:
 - product
