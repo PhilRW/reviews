@@ -39,6 +39,8 @@ menu:
   main:
     - name: About
       url: /about
+    - name: Archives
+      url: /archives/
     - name: Categories
       url: /categories
     - name: Posts
