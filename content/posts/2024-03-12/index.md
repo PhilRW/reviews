@@ -1,20 +1,21 @@
 ---
-title: "2024-03-12"
+title: "BKLYN Steel Co. frying pan"
 date: "2024-03-12T00:00:00-07:00"
-draft: true
+draft: false
 categories:
 - product
 tags:
-- 
+- kitchen
+- cooking
 cover:
   image: "cover.jpg"
 ---
-This BLKYN Steel Co. frying pan. I think "BKLYN" is a shouty way of abbreviating 
+This BKLYN Steel Co. frying pan. I think "BKLYN" is a shouty way of abbreviating 
 "BROOKLYN", like they didn't want to buy a vowel and "R" is out of style. Or maybe they have something against Roo from Winnie the Pooh.
 <!--more-->
 ## Description
 
-The top is coated in a light-colored nonstick ceramic material with mostly white and a few black speckles, the bottom is black, and the handle is covered in a layer of silicone made to look like wood. It is aluminum with a steel base for compatibility with induction cooktops. The bottom is ?" in diameter and it is X" at the top, so that makes it a ?" size. They like to use the bigger dimension (...don't we all). It is made in China.
+The top is coated in a light-colored nonstick ceramic material with mostly white and a few black speckles, the bottom is black, and the handle is covered in a layer of silicone made to look like wood. It is aluminum with a steel base for compatibility with induction cooktops. The bottom is 9" in diameter and it is 12" at the top, so that makes it a 12" size. They like to use the bigger dimension (...don't we all). It is made in China.
 
 ## Narrative
 
