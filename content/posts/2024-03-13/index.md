@@ -7,6 +7,7 @@ categories:
 tags:
 - EDC
 - watch
+- smartwatch
 - electronics
 cover:
   image: "cover.jpg"
