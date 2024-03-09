@@ -41,7 +41,7 @@ Very rarely they flake out and only one of the earbuds works, so when that happe
 
 ### Durability
 
-I wouldn't run them over with a car, or my kid's foot, or anything heavier than a T-shirt, but I generally don't drop things on them (or drop them on/into things), so so far, so good.
+I wouldn't run them over with a car, or my kid's foot, or anything heavier than a T-shirt, but I generally don't drop things on them (or drop them on/into things), so so far, so good. They're light enough that when I've dropped them, they're not damaged.
 
 ## Conclusion
 
