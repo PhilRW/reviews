@@ -37,7 +37,7 @@ The noise cancelling is decent enough. It works to noticeably lower ambient nois
 
 ### Reliability
 
-Very rarely they flake out and only one of the earbuds works, so when that happens I put them both back in the case and close it and open it and take them out again. Nine times out of ten it works every time.
+Very rarely they flake out, but when they do, only one of the earbuds works, so when that happens I put them both back in the case and close it and open it and take them out again. Nine times out of ten it works every time.
 
 ### Durability
 
