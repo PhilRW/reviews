@@ -12,7 +12,7 @@ tags:
 cover:
   image: "cover.jpg"
 ---
-[This GIR spatula]({{<amazon "B0177MBROQ">}}). At least GIR is an acronym this time and not just an angry typo.
+[This GIR spatula]({{<amazon "B0177MBROQ">}}). At least GIR is an acronym this time and not just a loud angry typo.
 <!--more-->
 ## Description
 
@@ -28,11 +28,11 @@ It flips eggs. It's not stiff enough to separate the whites of eggs that have ru
 
 ### Quality
 
-The quality is fine. The tapered edge is a nice touch. It's smooth pretty much everywhere.
+The quality is fine. The tapered edge is a nice touch. It's smooth pretty much everywhere, therefore it's very easy to clean.
 
 ### Reliability
 
-It's reliably slippery, all of the time.
+It's reliably slippery, all of the time. It has never failed to be a spatula.
 
 ### Durability
 
@@ -40,4 +40,4 @@ The silicone hasn't melted, cracked, or deformed, so I'd say it's pretty durable
 
 ## Conclusion
 
-I probably wouldn't buy this again if it's for eggs. It's super easy to clean but has practically no coefficient of friction, so it's not perfect. [This nylon one]({{<amazon "B01E8NH1OW">}}) is much better, at least for making fried eggs. And yet, I keep using it. In fact, I use it almost every day. So maybe it's okay after all. Maybe it's one of those frustrating things that you get used to and would miss if absent, which has some ineffable qualities that you can't quite put your finger on. Then again, maybe I just don't care all that much. After all, it *is* a spatula. 
+I probably wouldn't buy this again if it's for eggs. It's super easy to clean but has practically no coefficient of friction, so it's not perfect. [This nylon one]({{<amazon "B01E8NH1OW">}}) is much better, at least for making fried eggs. And yet, I keep using it. In fact, I use it almost every day. So maybe it's okay after all. Maybe it's one of those frustrating things that you get used to and would miss if absent, which has some ineffable qualities that you can't quite put your finger on. Then again, maybe I just don't care all that much. After all, it is a spatula. 
