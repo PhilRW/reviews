@@ -14,7 +14,7 @@ menu:
     - name: Tags
       url: /tags/
 params:
-  amazonTag: reviews.roenberg-watt.com-20
+  amazonTag: reviews.rosenberg-watt.com-20
   description: "Reviews from the real world"
   author: "Philip Rosenberg-Watt"
   defaultTheme: auto
