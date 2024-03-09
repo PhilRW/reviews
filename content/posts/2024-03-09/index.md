@@ -29,7 +29,7 @@ They take a bit of getting used to, but if you both *read* and *follow* the dire
 
 ### Functionality
 
-The clear ones are the clear winners because you can see where the water level is when filling. What good is a fill line on an opaque plastic? You'd need a strong flashlight to fill those trays correctly. And I don't want to have to equip myself just to refill the ice cube trays.
+The clear ones are the clear winners because you can see where the water level is when filling. What good is a max fill line on an opaque plastic? You'd need a strong flashlight to fill those trays correctly. And I don't want to have to equip myself just to refill the ice cube trays.
 
 ### Quality
 
