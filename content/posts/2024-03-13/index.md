@@ -26,6 +26,8 @@ I have a long history with high-teh watches. I've had a Casio calculator watch, 
 
 ### Functionality
 
+I have a bone to pick about the latest software update. They totally changed what all the things do. The button, the crown, swiping up from the bottom of the screen, they're all *different now*. What about my muscle memory?! Come one, Apple, at least give me the friggin' *option* of using the old way. Not a good UX in this case.
+
 ### Quality
 
 Top-notch.
