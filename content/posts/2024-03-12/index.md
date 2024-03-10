@@ -1,46 +1,43 @@
 ---
-title: "BKLYN Steel Co. frying pan"
+title: "GIR Mini Spatula"
 date: "2024-03-12T00:00:00-07:00"
 draft: false
 categories:
 - product
 tags:
 - kitchen
+- utensil
+- silicone
 - cooking
 cover:
   image: "cover.jpg"
 ---
-This BKLYN Steel Co. frying pan. I think "BKLYN" is a shouty way of abbreviating 
-"BROOKLYN", like they didn't want to buy a vowel and "R" is out of style. Or maybe they have something against Roo from Winnie the Pooh.
+[This GIR spatula]({{<amazon "B0177MBROQ">}}). At least GIR is an acronym this time and not just a loud angry typo.
 <!--more-->
 ## Description
 
-The top is coated in a light-colored nonstick ceramic material with mostly white and a few black speckles, the bottom is black, and the handle is covered in a layer of silicone made to look like wood. It is aluminum with a steel base for compatibility with induction cooktops. The bottom is 9" in diameter and it is 12" at the top, so that makes it a 12" size. They like to use the bigger dimension (...don't we all). It is made in China.
+It's a black silicone spatula, a bit on the small side.
 
 ## Narrative
 
-It was a gift so I don't know where it came from or how much it cost. I can't find an exact match on [their website](https://brooklynsteelco.com/). I also don't know what the nonstick material is, but it's probably safe by today's standards. Tomorrow's are another matter.
-
-This thing lives on our cooktop. We only have one nice frying pan, and this is it, so it's pointless to put it in a cabinet. We use it, rinse it in hot water to clean it, and set it back on the cooktop. That's it. Occasionally with certain foods I will have to wipe it off.
+"Nonstick" is an understatement. We bought it on [Wirecutter](https://www.nytimes.com/wirecutter/)'s recommendation. It's a bit *too* nonstick for me.
 
 ### Functionality
 
-The round flat part goes on the cooktop and the part that sticks out you grab with your hand. Place the food that you want to cook in it and it keeps that food from spilling all over your cooktop. It's a handy device. It transfers the heat from the cooktop to the food fairly efficiently, although I notice that eggs tend to slide towards the edges, where it's cooler, so I'm always having to reposition fried eggs because the outermost parts don't cook as fast. Maybe that means there's a size mismatch with our cooktop.
+It flips eggs. It's not stiff enough to separate the whites of eggs that have run together. It's too slippery to hold onto eggs and they sometimes slide off too soon. This can be bad news when going from the pan to the plate, so I have adapted by moving my plate as close as possible to the pan.
 
 ### Quality
 
-I like the lighter finish; I don't know why. I'd previously always had black nonstick pans. It is large enough to cook 4-5 fried eggs at a time, and the materials and build seem quite good.
+The quality is fine. The tapered edge is a nice touch. It's smooth pretty much everywhere, therefore it's very easy to clean.
 
 ### Reliability
 
-There's not much to fail here, it's a completely passive device. It's reliably been a nonstick pan, and the nonstick has been reliable.
+It's reliably slippery, all of the time. It has never failed to be a spatula.
 
 ### Durability
 
-I am noticing that the central part of the nonstick surface is slowly darkening with use. It is still nonstick, but after having it about a year I'm starting to wonder when the nonstick surface will start to fail. I have never not had a nonstick pan lose nonstickiness or start to flake off.
-
-It has some small dings on the edge where impacts have occurred, but they are purely cosmetic.
+The silicone hasn't melted, cracked, or deformed, so I'd say it's pretty durable. I don't leave it in the pan or touching hot surfaces for very long. Maybe I could....
 
 ## Conclusion
 
-It's a pretty nice frying pan and it's super easy to clean with the right temperature and pressure of water. I might buy it again, but when I buy something for myself I like to do a lot of research first. It is an everyday item in our kitchen.
+I probably wouldn't buy this again if it's for eggs. It's super easy to clean but has practically no coefficient of friction, so it's not perfect. [This nylon one]({{<amazon "B01E8NH1OW">}}) is much better, at least for making fried eggs. And yet, I keep using it. In fact, I use it almost every day. So maybe it's okay after all. Maybe it's one of those frustrating things that you get used to and would miss if absent, which has some ineffable qualities that you can't quite put your finger on. Then again, maybe I just don't care all that much. After all, it is a spatula. 
