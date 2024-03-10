@@ -1,6 +1,6 @@
 ---
-title: "2024-03-14"
-date: "2024-03-14T00:00:00-07:00"
+title: "2024-03-26"
+date: "2024-03-26T00:00:00-07:00"
 draft: true
 categories:
 - product
@@ -9,7 +9,7 @@ tags:
 cover:
   image: "cover.jpg"
 ---
-[OtterBox apple watch case]({{<amazon "B0CP4K9YGX">}})
+My fridge's ice maker.
 <!--more-->
 ## Description
 

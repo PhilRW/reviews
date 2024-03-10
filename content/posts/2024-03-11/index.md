@@ -27,9 +27,11 @@ I have a long history with high-tech watches. I've had a Casio calculator watch,
 
 ### Functionality
 
-I have a bone to pick about the latest software update. They totally changed what all the things do. The button, the crown, swiping up from the bottom of the screen, they're all *different* now. What about my muscle memory?! Come one, Apple, at least give me the *option* of using the old way. Not a good UX in this case.
+I have a bone to pick about the latest software update. They totally changed what all the things do. The button, the crown, swiping up from the bottom of the screen, they're all *different* now. What about my muscle memory?! Come one, Apple, at least give me the *option* of using the old way. Not a good [UX](https://en.wikipedia.org/wiki/User_experience) in this case. It's un-Apple.
 
-Anyway, it has every function you could possibly want in a smartwatch. It acts as an extension of your iPhone. It tracks my heart rate, sleep, activity, has a bunch of apps to make things oh-so-convenient (see: [OurGroceries](https://www.ourgroceries.com/), for one), and, oh yeah, it tells time, too. You never have to set it.
+Anyway, it has almost every function you could possibly want in a smartwatch. It acts as an extension of your iPhone. It tracks heart rate, sleep, activity, has apps to make things oh-so-convenient (see: [OurGroceries](https://www.ourgroceries.com/) for one), and, oh yeah, it tells time, too. You never have to set it. I just love it once a year when I get up in the morning and my watch has already skipped an hour of sleep for me![^1]
+
+[^1]: Definitely /s this time.
 
 The battery lasts about a day. I take it off to charge it an hour or so before I go to sleep and it also gets a few minutes of charge in the morning when I shower. Other than that it is on my wrist all the time.
 
@@ -37,7 +39,7 @@ Newer and more expensive models have always-on displays or other fancy doodads. 
 
 ### Quality
 
-Top-notch. I am generally a fan of their products. There is a subtle curvature of the glass face as it approaches the bezel, it's a nice touch. They make a big deal about the ease of frequently changing watch bands, but I never do. Still it was really easy to install my watch band.
+Top-notch. I am generally a fan of their products. There is a subtle curvature of the glass face as it approaches the bezel, it's a nice touch. They make a big deal about the ease of frequently changing watch bands, but I never do. But it was really easy to install my one watch band.
 
 ### Reliability
 
@@ -45,10 +47,10 @@ Very rarely do I encounter a bug or a glitch with the watch, and when I do, it's
 
 ### Durability
 
-It's survived for more than 2 years of everyday use. I've always had [this OtterBox case]({{<amazon "B0CP4K9YGX">}}) on it (a review for another day), so that may have contributed to its longevity. I like that it's waterproof and I have taken it swimming many times. Just remember to turn on the water mode first.
+It's survived more than 2 years of everyday use. I've always had [this OtterBox case]({{<amazon "B0CP4K9YGX">}}) on it (a review for another day), so that may have contributed to its longevity. I like that it's waterproof and I have taken it swimming many times. Just remember to turn on the water mode first.
 
-The battery still lasts about a day. It may be gradually degrading but what is more noticable is when Apple releases a new software version and the capacity goes to sh*t for a while while they work out the bugs or something. This happens infrequently but even once is too much.
+The battery still lasts about a day. It may be gradually degrading but what is more noticeable is when Apple releases a new software version and the battery life goes to sh*t for a while while they work out the bugs or something. This happens infrequently but even once is too much.
 
 ## Conclusion
 
-If you have an iPhone and are considering a smart watch, the Apple Watch is your choice. You can't go wrong with any model, which is why I [the least expensive one I could find]({{<amazon "B08KDBXX1S">}}). If you don't have an iPhone, don't buy this, it won't work. To be perfectly honest, the Apple Watch is one of the reasons I moved back to iPhone from Android.
+If you have an iPhone and are considering a smart watch, the Apple Watch is your choice. You can't go wrong with any model, which is why I got [the least expensive one I could find]({{<amazon "B08KDBXX1S">}}). If you don't have an iPhone, don't buy this, it won't work with it. To be perfectly honest, the Apple Watch is one of the reasons I moved back to iPhone from Android.
