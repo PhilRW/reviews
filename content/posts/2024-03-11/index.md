@@ -1,7 +1,7 @@
 ---
 title: "Apple Watch SE"
 date: "2024-03-11T00:00:00-07:00"
-draft: true
+draft: false
 categories:
 - product
 tags:
