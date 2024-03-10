@@ -45,4 +45,4 @@ For me they have held up pretty well so far. No problems.
 
 ## Conclusion
 
-I didn't think I'd be using these as much as I do. They're an everyday item for me. They alleviate the worry of spillage, which was my primary gripe with traditional ice cube trays. I would definitely buy them again, but only in a [clear]({{<amazon "B09VRH86S2">}}) color.
+I didn't think I'd be using these as much as I do. They're an everyday item for me. They alleviate the worry of spillage, which was my primary gripe with traditional ice cube trays. I would definitely buy them again, but only in a [clear]({{<amazon "B09VRH86S2">}}) color. In fact, I would never go back to traditional ice cube trays. That's how much I like them.
