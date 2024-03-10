@@ -14,7 +14,7 @@ tags:
 cover:
   image: "cover.jpg"
 ---
-[OtterBox apple watch case]({{<amazon "B0CP4K9YGX">}})
+[OtterBox apple watch case]({{<amazon "B0CP4K9YGX">}}) or [here]({{<amazon "B0CCSS586G">}})
 <!--more-->
 ## Description
 
