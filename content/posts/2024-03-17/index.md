@@ -5,11 +5,11 @@ draft: true
 categories:
 - product
 tags:
-- 
+- drinkware
 cover:
   image: "cover.jpg"
 ---
-Yeti 20 oz. tumbler
+[Yeti 20 oz. tumbler]({{<amazon "B073WK182F">}})
 <!--more-->
 ## Description
 

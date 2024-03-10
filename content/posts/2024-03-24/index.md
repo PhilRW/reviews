@@ -9,10 +9,10 @@ tags:
 cover:
   image: "cover.jpg"
 ---
-fannie pack
+Dagne Dover fannie pack
 <!--more-->
 ## Description
-
+[duplicate]({{<amazon "B09221VHWX">}}). That's the thing about fashion.
 ## Narrative
 
 ### Functionality

@@ -5,13 +5,15 @@ draft: true
 categories:
 - product
 tags:
-- 
+- drinkware
 cover:
   image: "cover.jpg"
 ---
-10 oz. Yeti lowball
+10 oz. Yeti lowball.
 <!--more-->
 ## Description
+
+[This]({{<amazon "B0BTTWD4VD">}}) is the newer version that is stackable. Mine is not
 
 ## Narrative
 
