@@ -1,5 +1,5 @@
 ---
-title: "Apple iPhone 14 Pro”
+title: "Apple iPhone 14 Pro"
 date: "2024-03-25T00:00:00-07:00"
 draft: true
 categories:
