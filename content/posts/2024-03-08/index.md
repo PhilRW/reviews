@@ -1,5 +1,5 @@
 ---
-title: "Apple AirPods Pro"
+title: "Apple AirPods Pro earbuds"
 date: "2024-03-08T00:00:00-07:00"
 draft: false
 categories:

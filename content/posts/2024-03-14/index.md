@@ -1,5 +1,5 @@
 ---
-title: "OtterBox Exo Edge case"
+title: "OtterBox Exo Edge case for Apple Watch"
 date: "2024-03-14T00:00:00-07:00"
 draft: false
 categories:
