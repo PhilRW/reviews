@@ -5,7 +5,10 @@ draft: true
 categories:
 - product
 tags:
-- 
+- refrigeration
+- kitchen
+- convenience
+- technology
 cover:
   image: "cover.jpg"
 ---
