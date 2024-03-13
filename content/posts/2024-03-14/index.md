@@ -1,45 +1,49 @@
 ---
-title: "OtterBox Exo Edge case for Apple Watch"
+title: "Ego Snowblower"
 date: "2024-03-14T00:00:00-07:00"
-draft: false
+draft: true
 categories:
 - product
 tags:
-- accessory
-- electronics
-- case
-- watch
-- smartwatch
-- EDC
+- convenience
+- snow
 cover:
   image: "cover.jpg"
 ---
-Today I'm going to turn back time a few days and follow up with [this]({{<amazon "B0CCSS586G">}}) case for my [Apple Watch]({{<ref "posts/2024-03-11">}}).
+Today I review my [Ego 24" Snowblower]({{<amazon "B09PWBP1QC">}}). It's electric.
 <!--more-->
 ## Description
 
-It's a plastic bumper case just slightly bigger than the watch is protects. My current one is orange. It has a hard plastic inside part that contacts the watch and a more flexible outside part that bumps into things.
+It's a 24" 2-stage self-propelled electric snowblower, model SNT2406-4. It has LED lights, an adjustable chute, variable speed auger, variable speed forward, reverse, and slots for two batteries. Mine came with 4 10Ah batteries and a dual charger. [Here it is]({{<amazon "B09PWBP1QC">}}) with 2 10Ah batteries.
 
 ## Narrative
 
-I always protect my expensive electronic gear with cases. Sometimes that isn't enough for the worst types of damage, but for the most part, they seem to help. Especially with watches. I ding them up all the time, whacking them into walls, countertops, whatever my wrist swings into. Usually within a few months my watches have various dings and dents on the bezel and at least one noticeable scratch on the face.
+We currently live on a property with a ridiculously long driveway. Like 300' long. We tried to weather the first winter with a smaller snowblower. It did not go well. This bigger one is going *much* better.
 
 ### Functionality
 
-Not my Apple Watch, though. This case has protected it and it still looks as good as new, albeit way dirtier. You have to take off the wristband and then put the watch in the case from the back. 
+It really is amazing what this thing can do. It can move a lot of snow. Okay, well, that's about it. Let me start again: It really is amazing how well this thing can do the one thing it can do. I wouldn't use it for anything else. But when you need it, you need it. It has a continuously variable auger speed control, as well as the same for forward drive. It also has a reverse direction. (No, it doesn't put snow back in your path, it just moves backward.)
+
+It has LED lights which I've actually used to clear snow in the dark. It has chute direction and angle adjustments so you can precisely throw the snow where you want it to go. But its all a manual thing, there's no automatic function that turns the snow chute when I turn directions. That would be awesome. And probably super expensive. I could see adding cameras, a computer, and more electric motors to one of these babies. But I digress.
+
+It has a plastic rod for chipping/ramming the snow out of a clogged chute, which can happen frequently or not at all depending on the quality of the snow it's throwing. Don't blame the snow blower for the weather.
+
+Depending on the amount of snow, I may have to swap battery sets a couple of times. With four batteries I can be charging one set/pair while I use the other. Usually anything less than half a foot of snow and I don't have to swap batteries. But remember, we have a ridiculously long driveway. In any typical (sub)urban situation this thing would be a bit overkill.
+
+The batteries have built-in level indicators which you can theoretically see through the translucent battery slot cover. But it always gets snow on it (duh), so I can't see the battery levels without wiping it off and I'm not going to do that; I just use it until it stops.
 
 ### Quality
 
-The fit is excellent and it protrudes enough to give it a decent amount of protection.
+It's a mix of metal where it needs it and plastic where it doesn't. The quality is good for what it is and what it does, while keeping its weight under control. (I wish I could say the same for myself.)
 
 ### Reliability
 
-It does not come off. You have to put the wristband back on through the case, but not once has the case even tried to come off.
+Electric motors and lithium batteries means it will always go until it won't anymore. And it always goes. I store it in the garage and do literally nothing to it until I need it again.
 
 ### Durability
 
-The problem is this is my second case. My first one was black and lasted about a year. Then the internal plastic part separated from the external plastic part and kept coming loose and falling off, leaving only a loose rubbery bumper around the watch. I finally said enough is enough and ordered a replacement from OtterBox. Thanks to their generous warranty, I got a "free" replacement, but shipping was half the cost of a new one.
+We have had this for 1 1/2 snow seasons, so time will tell how well it holds up. I expect to have to replace various parts over the years but as of yet I can say it's durable enough to make it through two Colorado Front Range winters. Which is to say, it hasn't been taxed.
 
 ## Conclusion
 
-I would expect the original purchase of a protective case to last the lifetime of the watch it protects, but alas, that was not the ... er ... case (sorry). I'd still buy another one because it is a small price to pay to protect an expensive watch. I might even try gluing mine back together once it comes apart, which I assume it will do like the last one. But time will tell.... (Ugh, another pun, sorry about that.)
+I would buy another one of these, especially if I had any appreciable amount of pavement to keep clear (which I do, for now). I probably wouldn't get one if I just had a smallish urban or suburban driveway and lived in a climate that didn't get a lot of snow and/or had a pretty mild winter climate. It's not expensive compared to the alternatives, according to both my pocketbook and my back. And I'm factoring in long term maintenance. (Of which? The snowblower or my pocketbook or my back? ...Yes.)
