@@ -9,7 +9,7 @@ tags:
 cover:
   image: "cover.jpg"
 ---
-[3D camera]({{<amazon "B003ZHUD70">}})
+[White noise machine]({{<amazon "B07NJSDBQ3">}})
 <!--more-->
 ## Description
 

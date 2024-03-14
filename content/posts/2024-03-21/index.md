@@ -9,7 +9,7 @@ tags:
 cover:
   image: "cover.jpg"
 ---
-[White noise machine]({{<amazon "B07NJSDBQ3">}})
+[LED flashlight]({{<amazon "B08H1NTK82">}})
 <!--more-->
 ## Description
 

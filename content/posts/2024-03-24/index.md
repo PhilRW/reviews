@@ -9,10 +9,10 @@ tags:
 cover:
   image: "cover.jpg"
 ---
-Dagne Dover fannie pack
+[Casio toy keyboard]({{<amazon "B00416WHV4">}})
 <!--more-->
 ## Description
-[duplicate]({{<amazon "B09221VHWX">}}). That's the thing about fashion.
+
 ## Narrative
 
 ### Functionality

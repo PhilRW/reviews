@@ -13,6 +13,9 @@ menu:
       url: /search/
     - name: Tags
       url: /tags/
+# permalinks:
+#   page:
+#     posts: posts/:year-:month-:day
 params:
   amazonTag: reviews.rosenberg-watt.com-20
   description: "Reviews from the real world"

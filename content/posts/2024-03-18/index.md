@@ -9,7 +9,7 @@ tags:
 cover:
   image: "cover.jpg"
 ---
-[Yeti 30 oz. tumbler]({{<amazon "B073WJSYMM">}})
+[Yeti 20 oz. tumbler]({{<amazon "B073WK182F">}})
 <!--more-->
 ## Description
 

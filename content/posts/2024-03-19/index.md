@@ -5,17 +5,15 @@ draft: true
 categories:
 - product
 tags:
-- 
+- drinkware
 cover:
   image: "cover.jpg"
 ---
-1 gal. [water distiller]({{<amazon "B09CTRMXSR">}})
+[Yeti 30 oz. tumbler]({{<amazon "B073WJSYMM">}})
 <!--more-->
 ## Description
 
 ## Narrative
-
-purchased in Feb 2022
 
 ### Functionality
 
