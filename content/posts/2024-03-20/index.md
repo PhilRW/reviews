@@ -1,5 +1,5 @@
 ---
-title: "2024-03-20"
+title: "Water distiller"
 date: "2024-03-20T00:00:00-07:00"
 draft: true
 categories:
@@ -9,7 +9,7 @@ tags:
 cover:
   image: "cover.jpg"
 ---
-1 gal. [water distiller]({{<amazon "B09CTRMXSR">}})
+1 gal. [CO-Z Distilled Water Maker]({{<amazon "B09CTRMXSR">}}). Are they trying to say "cozy?"
 <!--more-->
 ## Description
 
