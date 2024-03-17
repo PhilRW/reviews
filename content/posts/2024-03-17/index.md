@@ -34,11 +34,11 @@ Normally unnoticable, at the moment it is insisting on attention by being inflam
 
 ### Reliability
 
-It stopped working reliably without any warnings or signs that failure was imminent. It has not outlasted me, and it is supposed to come with a lifetime guarantee, so I would have to call it unreliable in my experience.
+When it works you don't even notice it. However, it stopped working reliably without any warnings or signs that failure was imminent, so I would have to call it unreliable in my experience.
 
 ### Durability
 
-It has endured for more than 40 years without problems, so I'd call that reasonably durable. Time will tell if it recovers from this episode.
+It has endured for more than 40 years without problems, so I'd call that reasonably durable. But it has not outlasted me, and it is supposed to come with a lifetime guarantee. Time will tell if it recovers from this episode.
 
 ## Conclusion
 
