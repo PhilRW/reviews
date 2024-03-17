@@ -44,3 +44,4 @@ Where glassware would shatter when dropped, this just dents. Sadly we've dropped
 ## Conclusion
 
 This size Yeti is perfect for a glass of milk, especially if you want to come back to it later (or you accidentally forget about it for a while). But why would you when it's only 10 oz.? I would buy these again, or even buy more of them.
+

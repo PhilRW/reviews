@@ -10,7 +10,7 @@ tags:
 - medical
 cover:
   image: "cover.jpg"
-  alt: 'a cartoon-style, green gallbladder wearing boxing gloves, looking determined and slightly annoyed, standing in a boxing ring wearing boxing gloves and saying "Ready to Rumble!"'
+  alt: 'A cartoon-style, personified green gallbladder wearing boxing gloves, looking determined and slightly annoyed, standing in a boxing ring ready to fight, with a speech bubble saying "Ready to rumble!" A crowd of other internal organs is cheering it on from the sidelines.'
 ---
 Today let's review my [gallbladder](https://en.wikipedia.org/wiki/Gallbladder).
 <!--more-->
@@ -44,4 +44,4 @@ It has endured for more than 40 years without problems, so I'd call that reasona
 
 I have enjoyed my gallbladder but, if it has to go, I will probably not miss it too much, because at this point it seems to be more trouble than it's worth. 
 
-![a green, anthropomorphized gallbladder lounging under a sun shade umbrella on a lawn chair at the beach, holding a tropical drink with gallstones](beach.jpg)
+![A green, anthropomorphized human gallbladder lounges under a sun shade umbrella on a lawn chair at the beach, exuding a relaxed and happy demeanor. It wears sunglasses and a tropical bathing suit, blending perfectly into the sunny beachside atmosphere. In its hand, it holds a fruity tropical cocktail, distinctively garnished with gallstones, adding a playful twist to the scene. The clear blue sky and serene ocean in the background enhance the vacation-like mood of this imaginative and humorous illustration.](beach.jpg)
