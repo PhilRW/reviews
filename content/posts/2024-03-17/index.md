@@ -10,6 +10,7 @@ tags:
 - medical
 cover:
   image: "cover.jpg"
+  alt: 'a cartoon-style, green gallbladder wearing boxing gloves, looking determined and slightly annoyed, standing in a boxing ring wearing boxing gloves and saying "Ready to Rumble!"'
 ---
 Today let's review my [gallbladder](https://en.wikipedia.org/wiki/Gallbladder).
 <!--more-->
