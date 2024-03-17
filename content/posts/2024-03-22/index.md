@@ -1,5 +1,5 @@
 ---
-title: "2024-03-22"
+title: "LED flashlight"
 date: "2024-03-22T00:00:00-07:00"
 draft: true
 categories:
@@ -9,7 +9,7 @@ tags:
 cover:
   image: "cover.jpg"
 ---
-[White noise machine]({{<amazon "B07NJSDBQ3">}})
+[LED flashlight]({{<amazon "B08H1NTK82">}})
 <!--more-->
 ## Description
 

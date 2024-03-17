@@ -1,15 +1,18 @@
 ---
-title: "2024-03-25"
-date: "2024-03-25T00:00:00-07:00"
+title: "2024-03-28"
+date: "2024-03-28T00:00:00-07:00"
 draft: true
 categories:
 - product
 tags:
-- 
+- refrigeration
+- kitchen
+- convenience
+- technology
 cover:
   image: "cover.jpg"
 ---
-[Casio toy keyboard]({{<amazon "B00416WHV4">}})
+My fridge's ice maker.
 <!--more-->
 ## Description
 

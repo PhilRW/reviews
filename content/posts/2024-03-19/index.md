@@ -1,5 +1,5 @@
 ---
-title: "30 oz. Yeti tumbler"
+title: "20 oz. Yeti tumbler"
 date: "2024-03-19T00:00:00-07:00"
 draft: true
 categories:
@@ -9,7 +9,7 @@ tags:
 cover:
   image: "cover.jpg"
 ---
-[Yeti 30 oz. tumbler]({{<amazon "B073WJSYMM">}})
+[Yeti 20 oz. tumbler]({{<amazon "B073WK182F">}})
 <!--more-->
 ## Description
 

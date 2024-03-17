@@ -9,7 +9,7 @@ tags:
 cover:
   image: "cover.jpg"
 ---
-[Casio toy keyboard]({{<amazon "B00416WHV4">}})
+[3D camera]({{<amazon "B003ZHUD70">}})
 <!--more-->
 ## Description
 

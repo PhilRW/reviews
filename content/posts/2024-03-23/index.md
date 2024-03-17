@@ -1,6 +1,6 @@
 ---
 title: "2024-03-23"
-date: "2024-03-22T00:00:00-07:00"
+date: "2024-03-23T00:00:00-07:00"
 draft: true
 categories:
 - product
@@ -9,7 +9,7 @@ tags:
 cover:
   image: "cover.jpg"
 ---
-[3D camera]({{<amazon "B003ZHUD70">}})
+[White noise machine]({{<amazon "B07NJSDBQ3">}})
 <!--more-->
 ## Description
 

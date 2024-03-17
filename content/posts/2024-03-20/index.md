@@ -1,21 +1,19 @@
 ---
-title: "Water distiller"
+title: "30 oz. Yeti tumbler"
 date: "2024-03-20T00:00:00-07:00"
 draft: true
 categories:
 - product
 tags:
-- 
+- drinkware
 cover:
   image: "cover.jpg"
 ---
-1 gal. [CO-Z Distilled Water Maker]({{<amazon "B09CTRMXSR">}}). Are they trying to say "cozy?"
+[Yeti 30 oz. tumbler]({{<amazon "B073WJSYMM">}})
 <!--more-->
 ## Description
 
 ## Narrative
-
-purchased in Feb 2022
 
 ### Functionality
 
