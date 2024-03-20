@@ -5,7 +5,9 @@ draft: true
 categories:
 - product
 tags:
-- 
+- inconvenience
+- kitchen
+- utility
 cover:
   image: "cover.jpg"
 ---
@@ -16,13 +18,15 @@ cover:
 ## Narrative
 
 purchased in Feb 2022
+Inconvenience, but good to have
+useful for other things: Coolant and things that require distilled water
 
 ### Functionality
-
+simple one-button
 ### Quality
-
+seems solid, decent
 ### Reliability
-
+strange issue where water mysteriously disappears
 ### Durability
 
 ## Conclusion
