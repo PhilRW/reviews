@@ -1,5 +1,5 @@
 ---
-title: "2024-03-23"
+title: "Dohm White Noise MAchine"
 date: "2024-03-23T00:00:00-07:00"
 draft: true
 categories:
@@ -9,7 +9,7 @@ tags:
 cover:
   image: "cover.jpg"
 ---
-[White noise machine]({{<amazon "B07NJSDBQ3">}})
+I will not remain silent on this [Dohm white noise machine]({{<amazon "B07NJSDBQ3">}}) any longer, so let's have a look, and a listen.
 <!--more-->
 ## Description
 
