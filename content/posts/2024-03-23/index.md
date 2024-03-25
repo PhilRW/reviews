@@ -1,5 +1,5 @@
 ---
-title: "Dohm White Noise MAchine"
+title: "Dohm White Noise Machine"
 date: "2024-03-23T00:00:00-07:00"
 draft: true
 categories:
