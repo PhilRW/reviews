@@ -9,8 +9,8 @@ tags:
 - communications
 - convenience
 - premium
-cover:
-  image: "cover.jpg"
+# cover:
+  # image: "cover.jpg"
 ---
 Dun dun dunn! My iPhone, an [Apple iPhone 14 Pro]({{<amazon "B0BN95FRW9">}}). A too expensive thing that is almost always on me.
 <!--more-->
